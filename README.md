@@ -1,0 +1,1 @@
+Lattice is a workforce intelligence platform prototype built for CoreWeave's four employee segments — Engineering & ML, Data Center Ops, GTM & Sales, and Corporate & G&A. It models the full hire-to-retire lifecycle with a live flight risk engine, Ironclad contract pipeline, SOX compliance tracking, and a GenAI-powered HRBP agent 
